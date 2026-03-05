@@ -24,8 +24,23 @@ The dataset is sourced from official institutions (General Statistics Office, Go
     * **Trade Balance:** Detailed Export/Import turnover and trade surplus/deficit.
     * **FDI (Foreign Direct Investment):** Registered and implemented capital flows.
 
----
-
+## Project Structure:
+```text
+├── Data/                        # Data-related assets
+│   ├── SQL_Scripts/             # Optimized SQL queries for MySQL extraction
+│   └── Schema_Documentation.md  # Detailed data dictionary and metadata
+├── Dashboard/                   # Power BI specialized files
+│   ├── Macro_Dashboard.pbit     # Clean Template (No data, schema only)
+│   └── Background_Layouts/      # Pre-rendered PNG/SVG for UI optimization
+├── Python_ETL/                  # Automation scripts (Optional)
+│   └── data_ingestion.py        # Scripts for scraping or API fetching
+├── Screenshots/                 # Visual documentation
+│   ├── Overview_Page.png        # Main Dashboard view
+│   ├── Trade_Analysis.png       # Trade & FDI deep dive
+│   └── Demo_Interaction.gif     # Animated preview of bookmarks & navigation
+├── .gitignore                   # Excludes heavy .pbix and sensitive credentials
+└── README.md                    # Project documentation
+```
 ## Project Steps:
 
 1.  **ETL**:
@@ -53,8 +68,13 @@ The dataset is sourced from official institutions (General Statistics Office, Go
 
 ## Conclusion
 
-The **Macro Economics Dashboard** serves as a "Single Source of Truth" for understanding CountryX’s economic pulse. 
-
+The **Macro Economics Dashboard** serves as a "Single Source of Truth" for investors and researchers to have a comprehensive CountryX's Macro Economics outlook. 
+Here are some key findings:
+1. **Robust Recovery & Growth Momentum:**
+   * CountryX’s GDP maintains a strong upward trajectory, demonstrating remarkable resilience post-pandemic. Despite the COVID-19 slowdown, the economy recovered swiftly, surpassing pre-pandemic levels. A current growth rate of approximately 10% positions CountryX as a top-tier performer among developing economies.
+   * Services, Manufacturing, and Construction remain the primary engines of both total value and growth rate. 
+   * The Industrial Production Index (IIP) shows consistent stability, serving as a confirmatory indicator of solid industrial health.
+   * However, recent PMI below the 50-point threshold suggest a Industrial leaders's contractionary sentiment for near-term.
 * **Actionable Insights:** Empowering investors to identify cyclical trends and pivot strategies before market shifts.
 * **Efficiency:** Reducing the
 
