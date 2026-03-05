@@ -26,19 +26,13 @@ The dataset is sourced from official institutions (General Statistics Office, Go
 
 ## Project Structure:
 ```text
-├── Data/                        # Data-related assets
-│   ├── SQL_Scripts/             # Optimized SQL queries for MySQL extraction
-│   └── Schema_Documentation.md  # Detailed data dictionary and metadata
-├── Dashboard/                   # Power BI specialized files
-│   ├── Macro_Dashboard.pbit     # Clean Template (No data, schema only)
-│   └── Background_Layouts/      # Pre-rendered PNG/SVG for UI optimization
-├── Python_ETL/                  # Automation scripts (Optional)
-│   └── data_ingestion.py        # Scripts for scraping or API fetching
-├── Screenshots/                 # Visual documentation
-│   ├── Overview_Page.png        # Main Dashboard view
-│   ├── Trade_Analysis.png       # Trade & FDI deep dive
-│   └── Demo_Interaction.gif     # Animated preview of bookmarks & navigation
-├── .gitignore                   # Excludes heavy .pbix and sensitive credentials
+├── dashboard_demo/                   # Power BI specialized files
+│   ├── 202603_Demo Macro Economics Dashboard.gif 
+│   └── 202603_Demo Macro Economics Dashboard.pdf      
+├── Code/
+│   └── DAX.md
+│   └── M_Code.md
+├── LICENSE
 └── README.md                    # Project documentation
 ```
 ## Project Steps:
