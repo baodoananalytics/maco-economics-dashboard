@@ -73,10 +73,17 @@ Here are some key findings:
 1. **Robust Recovery & Growth Momentum:**
    * CountryX’s GDP maintains a strong upward trajectory, demonstrating remarkable resilience post-pandemic. Despite the COVID-19 slowdown, the economy recovered swiftly, surpassing pre-pandemic levels. A current growth rate of approximately 10% positions CountryX as a top-tier performer among developing economies.
    * Services, Manufacturing, and Construction remain the primary engines of both total value and growth rate. 
-   * The Industrial Production Index (IIP) shows consistent stability, serving as a confirmatory indicator of solid industrial health.
+   * The Industrial Production Index (IIP) shows consistent stability with 8.3% in current quarter, serving as a confirmatory indicator of solid industrial health.
    * However, recent PMI below the 50-point threshold suggest a Industrial leaders's contractionary sentiment for near-term.
-* **Actionable Insights:** Empowering investors to identify cyclical trends and pivot strategies before market shifts.
-* **Efficiency:** Reducing the
+
+2. **Slow Consumption Growth & Stablely Controlled Inflation:**
+   * The consumption landscape remains lackluster. While nominal retail sales continue to trend upward (+0.85%), the real growth rate—after accounting for inflation (-1.75%) indicates that domestic purchasing power shows limited recovery.
+   * The only outlier in retail performance is the Tourisms sector, which surged by 21.9%. However, its impact on the overall economy remains limited as it constitutes only a marginal share (0.9%) of total retail revenue.
+   * Aside from a COVID-19 related spike of 6% in Q1 2020, the Consumer Price Index (CPI) has fluctuated between 2% and 4%. On a year-over-year (YoY) basis, while Gold prices experienced a significant surge of 32.3%, other CPI components showed moderate and stable movements.
+
+3. **Robust Foreign Trade Recovery:**
+   * Trade Dynamics & Market Expansion: Export and Import values reached $36B and $32B respectively, surpassing pre-pandemic levels. The trade balance has consistently maintained a surplus. Notably, the United States remains the primary export partner, characterized by both high transaction value and robust growth over the past five years.
+   * FDI Dominance in Trade: Export-import activities show a significant dependency on the FDI sector. Key growth drivers remain localized within electronics and high-tech manufacturing (around 33-35% Foreign Trade Value), highlighting the pivotal role of foreign corporations in CountryX’s global trade integration.
 
 ## Contact
 *  [Linkedin](https://www.linkedin.com/in/bao-doan-833a6615a/)
